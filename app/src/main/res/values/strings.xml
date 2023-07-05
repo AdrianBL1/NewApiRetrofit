@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewApiRetrofit</string>
+    <string name="api_tiempo">Api Tiempo</string>
+</resources>
